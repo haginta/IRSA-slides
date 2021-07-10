@@ -262,7 +262,8 @@ class: center, middle
 
 **https://haginta.github.io/Harry-Aginta/**
 
-Slides and working paper available at: http://bit.ly/jasid2019n 
+Slides and working paper available at: <br/>
+**https://haginta.github.io/IRSA-slides/IRSA_slides.html#1**
 
 
 **Quantitative Regional and Computational Science lab**
