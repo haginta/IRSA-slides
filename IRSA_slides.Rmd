@@ -262,7 +262,7 @@ class: center, middle
 
 **https://haginta.github.io/Harry-Aginta/**
 
-Slides and working paper available at: <br/>
+Slides available at: <br/>
 **https://haginta.github.io/IRSA-slides/IRSA_slides.html#1**
 
 
