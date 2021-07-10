@@ -1,1 +1,1 @@
-[slide link](/IRSA-slides.html)
+[slide link](/IRSA_slides.html)
