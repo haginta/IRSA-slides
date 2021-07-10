@@ -1,7 +1,7 @@
 ---
 title: "Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of <br/> COVID-19 Pandemic in Indonesia"
 author: "Harry Aginta, Ragdad C. Miranti, Carlos Mendez"  
-institute: "Nagoya University <br/><br/><br/><br/> Presented at the 16th IRSA Conference <br/><br/> 12 July 2021"
+institute: "Nagoya University <br/><br/><br/><br/> Presented at the $16^{th}$ IRSA International Conference <br/><br/> 12 July 2021"
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -147,7 +147,7 @@ class: middle
 
 # Beta convergence framework (brief overview)
 
-$$\begin{equation}\ln \left(\frac{\gamma_{i, t+k}}{y_{i, t}}\right)=\alpha+\beta \ln \left(\gamma_{i, t}\right)+\varepsilon_{i t}\end{equation}$$
+$$\begin{equation}\ln \left(\frac{y_{i, t+k}}{y_{i, t}}\right)=\alpha+\beta \ln \left(y_{i, t}\right)+\varepsilon_{i t}\end{equation}$$
 The convergence hypothesis: negative and significant $\beta$, implying catching-up process or $\beta$ convergence (Rey and Montouri, 1999)
 
 ---
@@ -209,34 +209,34 @@ class: middle
 --
 --
 
-- Both for SLA and SEM, the spatial coefficients are positive (significant) in without pandemic and negative (significant) with pandemic period
+- Both for SLM and SEM, the spatial coefficients $\rho$ and $\lambda$ are positive (significant) in without pandemic and negative (significant) in with pandemic period
 
 --
 --
 
-- The positive spatial coefficients imply positive spillovers from neighboring provinces (McCulloch and Sjahrir, 2008)
+- $\rho$ of SLM before the pandemic period implies positive spatial dependence in regional growth process (McCulloch and Sjahrir, 2008) but need to see direct and indirect effects (spatial spillovers)
 
 --
 --
 
-- Negative spatial coefficients indicates weakening growth spillovers effect when the pandemic period is included in the observation, resulting in an unsynchronized spatial growth. This may reflect the disconnection of economic interaction among people across provinces during ‘lock-down period’ due to pandemic.
+- Negative $\rho$ of SLM indicates the absence of regional growth dependence when the pandemic period is included, resulting in an unsynchronized spatial growth. This may reflect the disconnection of economic interaction among people across provinces during ‘lock-down period’ due to pandemic
 
 ---
 
 class: middle
 
 # Conclusion and implications
-- The negative impact of COVID-19 pandemic on Indonesian economy is significant, massive decline of economic growth in Q2-2020. 
+- The negative impact of COVID-19 pandemic on Indonesian economy is significant, massive decline of economic growth in Q2-2020 
 
 --
 --
 
-- Regionally, there is positive (negative) growth spillovers before (after) pandemic
+- In the regional growth process, there is positive (negative) spatial dependence before (after) the pandemic
 
 --
 --
 
-- The negative spatial spillover due to the inclusion of pandemic period may reflect the disconnection of economic interaction among provinces during ‘the lock-down period’
+- The negative spatial dependence in the growth process during pandemic period may reflect the disconnection of economic interaction among provinces during ‘the lock-down period’
 
 --
 --
@@ -251,8 +251,8 @@ class: middle
 ## Limitation
 
 - Need to consider other weight matrix 
-- Data used in the models are very limited to explain the complex regional growth dynamics
-- Future studies: incorporate more variables, including the institutional determinants of growth
+- Data used in the models are very limited for the complex regional growth dynamics
+- Future studies: incorporate more variables, including the institutional factors
 
 ---
 
