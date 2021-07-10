@@ -92,7 +92,7 @@ class: middle
 
 # (1) Exploratory data analysis
 
-- Negative output gap, economy below its potential level
+- Negative output gap (national and all provinces), economy below its potential level
 
 --
 --
