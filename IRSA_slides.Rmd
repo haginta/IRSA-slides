@@ -141,7 +141,7 @@ class: middle
 ---
 class: middle, center
 
-**COVID-19 cases in Indonesian provinces (daily comulative, Apr-July 2020)** <br/>
+**COVID-19 cases in Indonesian provinces (daily cumulative, Apr-July 2020)** <br/>
 (per 100.000 population)
 
 
